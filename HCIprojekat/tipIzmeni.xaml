@@ -1,0 +1,28 @@
+﻿<Page x:Class="HCIprojekat.tipIzmeni"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCIprojekat"
+        mc:Ignorable="d"
+        Title="Izmena tipa" Height="515" Width="390" >
+    <Grid Margin="0,10,4,0">
+        <Label Content="{DynamicResource ResourceKey=tid}" HorizontalAlignment="Left" Height="26" Margin="0,1,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=tname}" HorizontalAlignment="Left" Height="26" Margin="0,31,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=tabout}" HorizontalAlignment="Left" Height="26" Margin="0,61,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=ticon}" HorizontalAlignment="Left" Height="26" Margin="0,91,0,0" VerticalAlignment="Top" Width="123"/>
+
+        <TextBox Name="oznakaTipa" HorizontalAlignment="Left" Height="23" Margin="104,1,0,0" TextWrapping="Wrap" Text="{Binding Path=Oznaka,  UpdateSourceTrigger=Explicit}" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="imeTipa" HorizontalAlignment="Left" Height="23" Margin="104,31,0,0" TextWrapping="Wrap" Text="{Binding Path=Ime, UpdateSourceTrigger=Explicit}" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="opisTipa"  HorizontalAlignment="Left" Height="23" Margin="104,61,0,0" TextWrapping="Wrap" Text="{Binding Path=Opis, UpdateSourceTrigger=Explicit}" VerticalAlignment="Top" Width="120"/>
+
+        <Image Name="ikonicaTipa" Source="{Binding Path=Slika, UpdateSourceTrigger=Explicit, Mode= TwoWay}"  HorizontalAlignment="Left" Height="33" Margin="105,91,0,0" VerticalAlignment="Top" Width="33"/>
+        <Button Content="{DynamicResource ResourceKey=chooseicon}" HorizontalAlignment="Left" Margin="150,91,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" />
+        <Button Content="{DynamicResource ResourceKey=edit}" HorizontalAlignment="Left" Height="31" Margin="150,136,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Label x:Name="greskaOznaka"  Foreground="Red" HorizontalAlignment="Left" Margin="230,1,0,0" VerticalAlignment="Top" Height="23" Width="123"/>
+        <Label x:Name="greskaIme"  Foreground="Red" HorizontalAlignment="Left" Margin="230,31,0,0" VerticalAlignment="Top" Height="23" Width="112"/>
+        <Label x:Name="greskaOpis"  Foreground="Red" HorizontalAlignment="Left" Margin="230,61,0,0" VerticalAlignment="Top" Height="23" Width="112"/>
+        <Label x:Name="greskaSlika"  Foreground="Red" HorizontalAlignment="Left" Margin="230,87,0,0" VerticalAlignment="Top" Height="23" Width="112"/>
+
+    </Grid>
+</Page>

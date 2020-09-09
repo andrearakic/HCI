@@ -1,0 +1,75 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+    <!-- The name of this ResourceDictionary. Should not be localized. -->
+    <sys:String x:Key="ResourceDictionaryName" >Loc-en-US</sys:String>
+
+    <sys:String x:Key="WindowTitle">Map of Events</sys:String>
+    <sys:String x:Key="button">_Events</sys:String>
+    <sys:String x:Key="button1">_Labels</sys:String>
+    <sys:String x:Key="button2">_Types</sys:String>
+
+    <sys:String x:Key="dogtitle">Events</sys:String>
+    <sys:String x:Key="eicon">Icon</sys:String>
+    <sys:String x:Key="eid">Id</sys:String>
+    <sys:String x:Key="ename">Name</sys:String>
+    <sys:String x:Key="eabout">About</sys:String>
+    <sys:String x:Key="etype">Type</sys:String>
+    <sys:String x:Key="epos">Attendance</sys:String>
+    <sys:String x:Key="ehum">Humanitarian</sys:String>
+    <sys:String x:Key="espend">Cost price ($)</sys:String>
+    <sys:String x:Key="estate">Country</sys:String>
+    <sys:String x:Key="etown">City</sys:String>
+    <sys:String x:Key="ehistory">History of the event</sys:String>
+    <sys:String x:Key="edate">Date of the event</sys:String>
+    <sys:String x:Key="elabel">Labels</sys:String>
+    <sys:String x:Key="eadd">_Add event</sys:String>
+    <sys:String x:Key="eedit">_Edit event</sys:String>
+    <sys:String x:Key="edelete">_Delete event</sys:String>
+    <sys:String x:Key="filter">Filter:</sys:String>
+
+    <sys:String x:Key="map">_Map</sys:String>
+    <sys:String x:Key="chooseicon">_Select icon</sys:String>
+    <sys:String x:Key="yes">Yes</sys:String>
+    <sys:String x:Key="add">_Add</sys:String>
+    <sys:String x:Key="edit">_Edit</sys:String>
+
+
+
+    <sys:String x:Key="potvrdi">_Confirm</sys:String>
+    <sys:String x:Key="ponisti">Ca_ncel</sys:String>
+    <sys:String x:Key="search">Search</sys:String>
+
+    <sys:String x:Key="labeltitle">Lavels</sys:String>
+    <sys:String x:Key="ladd">_Add label</sys:String>
+    <sys:String x:Key="ledit">_Edit label</sys:String>
+    <sys:String x:Key="ldelete">_Delete label</sys:String>
+    <sys:String x:Key="lid">Id</sys:String>
+    <sys:String x:Key="lcolor">Color</sys:String>
+    <sys:String x:Key="labout">About</sys:String>
+    <sys:String x:Key="choose">_Select</sys:String>
+
+
+    <sys:String x:Key="typetitle">Types</sys:String>
+    <sys:String x:Key="ticon">Icon</sys:String>
+    <sys:String x:Key="tid">Id</sys:String>
+    <sys:String x:Key="tabout">About</sys:String>
+    <sys:String x:Key="tname">Name</sys:String>
+    <sys:String x:Key="tadd">_Add type</sys:String>
+    <sys:String x:Key="tedit">_Edit type</sys:String>
+    <sys:String x:Key="tdelete">_Delete type</sys:String>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ResourceDictionary>

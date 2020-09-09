@@ -1,0 +1,75 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib">
+
+                     <!-- The name of this ResourceDictionary. Should not be localized. -->
+                     <sys:String x:Key="ResourceDictionaryName" >Loc-rs-RS</sys:String>
+
+    <sys:String x:Key="WindowTitle">Mapa događaja</sys:String>
+    <sys:String x:Key="button">_Događaji</sys:String>
+    <sys:String x:Key="button1">_Etikete</sys:String>
+    <sys:String x:Key="button2">_Tipovi</sys:String>
+
+    <sys:String x:Key="dogtitle">Događaji</sys:String>
+    <sys:String x:Key="eicon">Ikona</sys:String>
+    <sys:String x:Key="eid">Oznaka</sys:String>
+    <sys:String x:Key="ename">Ime</sys:String>
+    <sys:String x:Key="eabout">Opis</sys:String>
+    <sys:String x:Key="etype">Tip</sys:String>
+    <sys:String x:Key="epos">Posećenost</sys:String>
+    <sys:String x:Key="ehum">Humanitarno</sys:String>
+    <sys:String x:Key="espend">Cena troškova ($)</sys:String>
+    <sys:String x:Key="estate">Država</sys:String>
+    <sys:String x:Key="etown">Grad</sys:String>
+    <sys:String x:Key="ehistory">Istorija datuma održavanja</sys:String>
+    <sys:String x:Key="edate">Datum održavanja</sys:String>
+    <sys:String x:Key="elabel">Etikete</sys:String>
+    <sys:String x:Key="eadd">_Dodaj događaj</sys:String>
+    <sys:String x:Key="eedit">_Izmeni događaj</sys:String>
+    <sys:String x:Key="edelete">_Obriši događaj</sys:String>
+    <sys:String x:Key="filter">Filtriraj:</sys:String>
+
+    <sys:String x:Key="map">_Mapa</sys:String>
+    <sys:String x:Key="chooseicon">I_zaberi ikonu</sys:String>
+    <sys:String x:Key="yes">Da</sys:String>
+    <sys:String x:Key="add">_Dodaj</sys:String>
+    <sys:String x:Key="edit">_Izmeni</sys:String>
+
+
+
+    <sys:String x:Key="potvrdi">_Potrdi</sys:String>
+    <sys:String x:Key="ponisti">Po_ništi</sys:String>
+    <sys:String x:Key="search">Pretraga</sys:String>
+
+    <sys:String x:Key="labeltitle">Etikete</sys:String>
+    <sys:String x:Key="ladd">_Dodaj etiketu</sys:String>
+    <sys:String x:Key="ledit">_Izmeni etiketu</sys:String>
+    <sys:String x:Key="ldelete">_Obriši etiketu</sys:String>
+    <sys:String x:Key="lid">Oznaka</sys:String>
+    <sys:String x:Key="lcolor">Boja</sys:String>
+    <sys:String x:Key="labout">Opis</sys:String>
+    <sys:String x:Key="choose">Iza_beri</sys:String>
+
+
+    <sys:String x:Key="typetitle">Tipovi</sys:String>
+    <sys:String x:Key="ticon">Ikona</sys:String>
+    <sys:String x:Key="tid">Oznaka</sys:String>
+    <sys:String x:Key="tabout">Opis</sys:String>
+    <sys:String x:Key="tname">Ime</sys:String>
+    <sys:String x:Key="tadd">_Dodaj tip</sys:String>
+    <sys:String x:Key="tedit">_Izmeni tip</sys:String>
+    <sys:String x:Key="tdelete">_Obriši tip</sys:String>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</ResourceDictionary>

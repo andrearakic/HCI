@@ -1,0 +1,309 @@
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csprojAssemblyReference.cache
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\App.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.cache
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.lref
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe.config
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.g.resources
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.Properties.Resources.resources
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.GenerateResource.cache
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\Etikete.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\Etikete.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.g.cs
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.baml
+C:\Users\Andrea\Documents\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe.config
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\Etikete.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\App.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.cache
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.lref
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\Etikete.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.g.resources
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.Properties.Resources.resources
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe.config
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\Etikete.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\App.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.lref
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\Etikete.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.g.resources
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\2020\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe.config
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\Etikete.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\App.g.cs
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.lref
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\Etikete.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.baml
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.g.resources
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.Properties.Resources.resources
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\Letnji semestar\HCIprojekat\HCIprojekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe.config
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\Etikete.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\App.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.cache
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.lref
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\Etikete.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.baml
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.g.resources
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.Properties.Resources.resources
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\1\2\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Mvvm.v20.1.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Xpf.Controls.v20.1.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Xpf.Core.v20.1.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Mvvm.v20.1.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Xpf.Controls.v20.1.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Xpf.Core.v20.1.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Xpf.Controls.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Xpf.Controls.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Xpf.Controls.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Xpf.Controls.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Xpf.Core.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Xpf.Core.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Xpf.Core.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Xpf.Core.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HelpViewer.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_Content.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HelpViewer.baml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe.licenses
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.CopyComplete
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\en-US\LocalizationDictionary.en-US.xaml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\rs-RS\LocalizationDictionary.rs-RS.xaml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\Styles\BlueStyle.xaml
+C:\Users\Andrea\Desktop\HCIprojekat\HCIprojekat\bin\Debug\Styles\WhiteStyle.xaml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\en-US\LocalizationDictionary.en-US.xaml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\rs-RS\LocalizationDictionary.rs-RS.xaml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\Styles\BlueStyle.xaml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\Styles\WhiteStyle.xaml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe.config
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Mvvm.v20.1.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Xpf.Controls.v20.1.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Xpf.Core.v20.1.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Mvvm.v20.1.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Xpf.Controls.v20.1.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Xpf.Core.v20.1.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Xpf.Controls.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Xpf.Controls.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Xpf.Controls.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Xpf.Controls.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Xpf.Core.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Xpf.Core.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Xpf.Core.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Xpf.Core.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\Etikete.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HelpViewer.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\App.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_Content.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.cache
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat_MarkupCompile.lref
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\dogadjajDodaj.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\Dogadjaji.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\dogadjajIzmeni.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\etiketaDodaj.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\etiketaIzmeni.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\Etikete.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HelpViewer.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\MainWindow.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\tipDodaj.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\tipIzmeni.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\Tipovi.baml
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.g.resources
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.Properties.Resources.resources
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.GenerateResource.cache
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe.licenses
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.CoreCompileInputs.cache
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csproj.CopyComplete
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\1\5\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.pdb
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\HCI\Andrea\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.csprojAssemblyReference.cache
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\HCI\Andrea\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.exe
+C:\Users\Andrea\Desktop\Letnji semestar\HCI\HCI\Andrea\HCIprojekat\HCIprojekat\obj\Debug\HCIprojekat.pdb

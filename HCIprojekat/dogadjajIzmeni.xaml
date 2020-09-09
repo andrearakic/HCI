@@ -1,0 +1,94 @@
+﻿<Page x:Class="HCIprojekat.dogadjajIzmeni"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HCIprojekat"
+        mc:Ignorable="d"
+              Title="Izmeni događaj" Height="515" Width="390">
+    <Grid Margin="0,10,4,0">
+        <Label Content="{DynamicResource ResourceKey=eid}" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=ename}" HorizontalAlignment="Left" Height="26" Margin="10,36,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=eabout}" HorizontalAlignment="Left" Height="26"  Margin="10,68,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=epos}" HorizontalAlignment="Left" Height="26" Margin="10,211,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.469,-0.129"/>
+        <Label Content="{DynamicResource ResourceKey=eicon}" HorizontalAlignment="Left" Height="26" Margin="10,180,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=ehum}" HorizontalAlignment="Left" Height="26" Margin="10,237,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=ehistory}" HorizontalAlignment="Left" Height="26" Margin="10,346,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label Content="{DynamicResource ResourceKey=estate}" HorizontalAlignment="Left" Height="26" Margin="10,288,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=etown}" HorizontalAlignment="Left" Height="26" Margin="10,319,0,0"  VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=espend}" HorizontalAlignment="Left" Height="26" Margin="10,262,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=edate}" HorizontalAlignment="Left" Height="26" Margin="10,377,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=elabel}" HorizontalAlignment="Left" Height="26" Margin="10,124,0,0" VerticalAlignment="Top" Width="123"/>
+        <Label Content="{DynamicResource ResourceKey=etype}" HorizontalAlignment="Left" Height="26" Margin="10,97,0,0" VerticalAlignment="Top" Width="123"/>
+
+
+        <TextBox Name="oznaka" HorizontalAlignment="Left" Height="23" Margin="133,10,0,0" TextWrapping="Wrap" Text="{Binding Path=Oznaka, UpdateSourceTrigger=Explicit}" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="ime" HorizontalAlignment="Left" Height="23"  Margin="133,41,0,0" TextWrapping="Wrap" Text="{Binding Path=Ime, UpdateSourceTrigger=Explicit}" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="opis" HorizontalAlignment="Left" Height="23" Margin="133,67,0,0"  VerticalAlignment="Top" Width="120" TextWrapping="Wrap" Text="{Binding Path=Opis, UpdateSourceTrigger=Explicit}" />
+
+        <ComboBox Name="izaberiTip" Text="{Binding Path=Tip, UpdateSourceTrigger=Explicit}" HorizontalAlignment="Left" Height="23"  Margin="133,99,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="IzaberiTip_SelectionChanged"/>
+
+        <ListBox x:FieldModifier="public" ItemsSource="{Binding Path=ListaEtiketa}" Name="izaberiEtikete" HorizontalAlignment="Left" Height="48" Margin="133,127,0,0" VerticalAlignment="Top" Width="120" SelectionMode="Multiple" SelectionChanged="IzaberiEtikete_SelectionChanged_1" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid Margin="0 0 0 0 " Grid.Column="0" >
+                            <Rectangle Width="10" Height="10" Fill="{Binding Path=Boja}"></Rectangle>
+                        </Grid>
+                        <Grid Margin="0 0 1 0 " Grid.Column="1" >
+                            <TextBox IsReadOnly="True" Text="{Binding Path=Oznaka}"></TextBox>
+                        </Grid>
+
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Image Name="ikonica"  Source="{Binding Path=Ikona, UpdateSourceTrigger=Explicit, Mode= TwoWay}" HorizontalAlignment="Left" Height="26" Margin="133,180,0,0" VerticalAlignment="Top" Width="33"/>
+        <Button  Content="{DynamicResource ResourceKey=chooseicon}" HorizontalAlignment="Left" Margin="178,180,0,0" VerticalAlignment="Top" Width="75"  Height="26" Click="Button_Click"/>
+
+        <ComboBox Name="posecenost" Text="{Binding Path=Posecenost, UpdateSourceTrigger=Explicit}" HorizontalAlignment="Left" Height="25" Margin="133,211,0,0" VerticalAlignment="Top" Width="120">
+            <ComboBoxItem>do 1000</ComboBoxItem>
+            <ComboBoxItem>1000-5000</ComboBoxItem>
+            <ComboBoxItem>5000-10000</ComboBoxItem>
+            <ComboBoxItem>preko 10000</ComboBoxItem>
+        </ComboBox>
+
+        <CheckBox Name="humanitarno" IsChecked="{Binding Path=Humanitarno, UpdateSourceTrigger=Explicit}" Content="{DynamicResource ResourceKey=yes}" HorizontalAlignment="Left" Height="18" Margin="138,245,0,0" VerticalAlignment="Top" Width="80" />
+
+        <TextBox Name="troskovi"  HorizontalAlignment="Left" Height="25" Margin="133,263,0,0" TextWrapping="Wrap" Text="{Binding Path=Troskovi, UpdateSourceTrigger=Explicit}"  VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="drzava" HorizontalAlignment="Left" Height="23" Margin="133,293,0,0" TextWrapping="Wrap" Text="{Binding Path=Drzava, UpdateSourceTrigger=Explicit}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="grad" HorizontalAlignment="Left" Height="23"  Margin="133,321,0,0" TextWrapping="Wrap" Text="{Binding Path=Grad, UpdateSourceTrigger=Explicit}" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="istorija_datuma" HorizontalAlignment="Left" Height="23" Margin="173,349,0,0" TextWrapping="Wrap" Text="{Binding Path=Istorija_datuma, UpdateSourceTrigger=Explicit}" VerticalAlignment="Top" Width="80"/>
+
+
+        <StackPanel HorizontalAlignment="Left" Height="101" Margin="133,377,0,-35.6" VerticalAlignment="Top" Width="120">
+            <DatePicker x:Name="datum_odrzavanja" SelectedDate="{Binding Datum_odrzavanja, UpdateSourceTrigger=Explicit}" Text="{Binding Datum_otkrivanja, UpdateSourceTrigger=Explicit}">
+                <DatePicker.Resources>
+                    <Style TargetType="DatePickerTextBox">
+                        <Setter Property="IsReadOnly" Value="True"></Setter>
+                    </Style>
+                </DatePicker.Resources>
+            </DatePicker>
+        </StackPanel>
+
+        <Button Content="{DynamicResource ResourceKey=edit}" HorizontalAlignment="Left" Margin="178,430,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_Dodaj" Height="31" />
+
+        <Label Name="greskaOznaka" Foreground="Red" Content="" HorizontalAlignment="Left" Height="25" Margin="267,10,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaIme" Foreground="Red" Content="" HorizontalAlignment="Left" Height="25" Margin="267,39,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaOpis" Foreground="Red" Content="" HorizontalAlignment="Left" Height="23" Margin="282,100,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaTip" Foreground="Red" Content="" HorizontalAlignment="Left" Height="25" Margin="267,99,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaEtikete" Foreground="Red" Content="" HorizontalAlignment="Left" Height="23" Margin="282,194,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaIkonica" Foreground="Red" Content="" HorizontalAlignment="Left" Height="25" Margin="267,180,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaDrzava" Foreground="Red" Content="" HorizontalAlignment="Left" Height="23" Margin="658,133,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaGrad" Foreground="Red" Content="" HorizontalAlignment="Left" Height="23" Margin="658,161,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaIstorija" Foreground="Red" Content="" HorizontalAlignment="Left" Height="23" Margin="658,194,0,0" VerticalAlignment="Top" Width="108"/>
+        <Label Name="greskaDatum" Foreground="Red" Content="" HorizontalAlignment="Left" Height="23" Margin="662,240,0,0" VerticalAlignment="Top" Width="108"/>
+
+    </Grid>
+</Page>

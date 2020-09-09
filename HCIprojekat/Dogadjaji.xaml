@@ -1,0 +1,166 @@
+﻿<Window x:Class="HCIprojekat.Dogadjaji"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:HCIprojekat"
+      mc:Ignorable="d"
+      Style="{DynamicResource ResourceKey=MainWindowStyle}"
+
+      Title="{DynamicResource ResourceKey=dogtitle}" Height="648" Width="1168"  WindowStartupLocation="CenterScreen">
+
+    <Grid Height="Auto" Width="Auto" Margin="0,0,-6.4,0" >
+        <DataGrid x:FieldModifier="public"  x:Name="listaD" IsReadOnly="True" AutoGenerateColumns="False" Margin="42,97,0,34" SelectionChanged="ListaD_SelectionChanged" HorizontalAlignment="Left" Width="462">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Header="{DynamicResource ResourceKey=eicon}" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Width="25" Height="25" Source="{Binding Ikona}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=eid}" Binding="{Binding Oznaka}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=ename}" Binding="{Binding Ime}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=eabout}" Binding="{Binding Opis}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=etype}" Binding="{Binding Tip}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=epos}" Binding="{Binding Posecenost}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=ehum}" Binding="{Binding Humanitarno}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=espend}" Binding="{Binding Troskovi}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=estate}" Binding="{Binding Drzava}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=etown}" Binding="{Binding Grad}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=ehistory}" Binding="{Binding Istorija_datuma}"/>
+                <DataGridTextColumn Header="{DynamicResource ResourceKey=edate}" Binding="{Binding Datum_odrzavanja}"/>
+                <DataGridTemplateColumn Header="{DynamicResource ResourceKey=elabel}">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <ItemsControl ItemsSource="{Binding ListaEtiketa, UpdateSourceTrigger=LostFocus}">
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel>
+                                            <TextBlock Text="{Binding Oznaka}"/>
+                                            <Rectangle Width="10" Height="10" Fill="{Binding Boja}" />
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="{DynamicResource ResourceKey=eadd}" HorizontalAlignment="Left" Height="36" Margin="38,15,0,0" VerticalAlignment="Top" Width="246" Click="Button_Click" RenderTransformOrigin="0.463,-1.258"/>
+        <Button Content="{DynamicResource ResourceKey=eedit}" HorizontalAlignment="Left" Height="36" Margin="462,15,0,0" VerticalAlignment="Top" Width="246" Click="Button_Click_1" RenderTransformOrigin="-3.218,-1.266" />
+        <Button Content="{DynamicResource ResourceKey=edelete}" HorizontalAlignment="Left" Height="36" Margin="888,15,0,0" VerticalAlignment="Top" Width="246" RenderTransformOrigin="-3.218,-1.266" Click="Button_Click_2" />
+
+
+        <Label Content="{DynamicResource ResourceKey=filter}" HorizontalAlignment="Left" Height="28" Margin="45,64,0,0" VerticalAlignment="Top" Width="59" RenderTransformOrigin="0.477,0.729"/>
+
+        <ComboBox Name="izaberiPretragu" HorizontalAlignment="Left" Height="28" Margin="108,64,0,0" VerticalAlignment="Top" Width="155" SelectionChanged="ComboBox_SelectionChanged">
+            <ComboBoxItem Content="{DynamicResource ResourceKey=eid}"/>
+            <ComboBoxItem Content="{DynamicResource ResourceKey=ename}"/>
+            <ComboBoxItem Content="{DynamicResource ResourceKey=etype}"/>
+        </ComboBox>
+        <TextBox Name="textPretrage" HorizontalAlignment="Left" Height="28" Margin="280,64,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="224" TextChanged="TextPretrage_TextChanged"/>
+
+
+        <Expander ExpandDirection="Down" IsExpanded="False" Header="{DynamicResource ResourceKey=search}" Height="490" Margin="888,66,-6,0" VerticalAlignment="Top">
+            <Grid Margin="0,0,4,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="103*"/>
+                    <ColumnDefinition Width="178*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="{DynamicResource ResourceKey=eid}" HorizontalAlignment="Left" Height="26" Margin="10,10,0,0" VerticalAlignment="Top" Width="112" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=ename}" HorizontalAlignment="Left" Height="26" Margin="10,36,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=eabout}" HorizontalAlignment="Left" Height="26" Margin="10,68,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=epos}" HorizontalAlignment="Left" Height="26" Margin="10,211,0,0" VerticalAlignment="Top" Width="123" RenderTransformOrigin="0.469,-0.129" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=eicon}" HorizontalAlignment="Left" Height="26" Margin="10,180,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=ehum}" HorizontalAlignment="Left" Height="26" Margin="10,237,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=ehistory}" HorizontalAlignment="Left" Height="26" Margin="10,346,0,0" VerticalAlignment="Top" Width="161" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=estate}" HorizontalAlignment="Left" Height="26" Margin="10,288,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=etown}" HorizontalAlignment="Left" Height="26" Margin="10,319,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=espend}" HorizontalAlignment="Left" Height="26" Margin="10,262,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=edate}" HorizontalAlignment="Left" Height="26" Margin="10,377,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+
+                <TextBox Name="oznaka" HorizontalAlignment="Left" Height="23" Margin="29.8,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+                <TextBox Name="ime" HorizontalAlignment="Left" Height="23" Margin="29.8,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+                <TextBox Name="opis" HorizontalAlignment="Left" Height="25" Margin="29.8,67,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+                <Label Content="{DynamicResource ResourceKey=etype}" HorizontalAlignment="Left" Height="26" Margin="10,97,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+                <Label Content="{DynamicResource ResourceKey=elabel}" HorizontalAlignment="Left" Height="26" Margin="10,124,0,0" VerticalAlignment="Top" Width="123" Grid.ColumnSpan="2"/>
+
+                <ComboBox Name="izaberiTip" HorizontalAlignment="Left" Height="23" Margin="29.8,99,0,0" VerticalAlignment="Top" Width="120"  Grid.Column="1" SelectionChanged="IzaberiTip_SelectionChanged"/>
+
+                <ListBox x:FieldModifier="public" ItemsSource="{Binding Path=ListaEtiketa}" Name="izaberiEtikete" HorizontalAlignment="Left" Height="48" Margin="29.8,127,0,0" VerticalAlignment="Top" Width="120" SelectionMode="Multiple" SelectionChanged="IzaberiEtikete_SelectionChanged" Grid.Column="1" >
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Grid Margin="0 0 0 0 " Grid.Column="0" >
+                                    <Rectangle Width="10" Height="10" Fill="{Binding Path=Boja}"></Rectangle>
+                                </Grid>
+                                <Grid Margin="0 0 1 0 " Grid.Column="1" >
+                                    <TextBox IsReadOnly="True" Text="{Binding Path=Oznaka}"></TextBox>
+                                </Grid>
+
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+
+                <Image Name="ikonica"  HorizontalAlignment="Left" Height="26" Margin="29.8,180,0,0" VerticalAlignment="Top" Width="38" Grid.Column="1"/>
+                <Button  Content="{DynamicResource ResourceKey=chooseicon}" HorizontalAlignment="Left" Margin="74.8,180,0,0" VerticalAlignment="Top" Width="75"  Height="26" Click="Button_Click_5" Grid.Column="1"/>
+
+
+                <ComboBox Name="posecenost" HorizontalAlignment="Left" Height="25" Margin="29.8,211,0,0" VerticalAlignment="Top" Width="120" Grid.Column="1">
+                    <ComboBoxItem>do 1000</ComboBoxItem>
+                    <ComboBoxItem>1000-5000</ComboBoxItem>
+                    <ComboBoxItem>5000-10000</ComboBoxItem>
+                    <ComboBoxItem>preko 10000</ComboBoxItem>
+                </ComboBox>
+
+                <CheckBox Name="humanitarno" Content="{DynamicResource ResourceKey=yes}" HorizontalAlignment="Left" Height="18" Margin="34.8,245,0,0" VerticalAlignment="Top" Width="80" Grid.Column="1" />
+
+                <TextBox Name="troskovi"  HorizontalAlignment="Left" Height="25" Margin="29.8,263,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+                <TextBox x:Name="drzava" HorizontalAlignment="Left" Height="23" Margin="29.8,293,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+                <TextBox x:Name="grad" HorizontalAlignment="Left" Height="23" Margin="29.8,321,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Grid.Column="1"/>
+                <TextBox x:Name="istorija_datuma" HorizontalAlignment="Left" Height="23" Margin="69.8,349,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="80" Grid.Column="1"/>
+
+
+                <StackPanel HorizontalAlignment="Left" Height="101" Margin="29.8,377,0,-10.8" VerticalAlignment="Top" Width="120" Grid.Column="1">
+                    <DatePicker x:Name="datum_odrzavanja">
+                        <DatePicker.Resources>
+                            <Style TargetType="{x:Type DatePickerTextBox}">
+                                <Setter Property="IsReadOnly" Value="True"/>
+                            </Style>
+                        </DatePicker.Resources>
+                    </DatePicker>
+                </StackPanel>
+
+                <Button Content="{DynamicResource ResourceKey=potvrdi}" HorizontalAlignment="Left" Height="31" Margin="80,422,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3" Grid.Column="1"/>
+                <Button Content="{DynamicResource ResourceKey=ponisti}" HorizontalAlignment="Left" Height="31" Margin="75,422,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_4" Grid.ColumnSpan="2" />
+
+            </Grid>
+        </Expander>
+
+
+        <Button Content="{DynamicResource ResourceKey=map}" HorizontalAlignment="Left"  Margin="1017,546,0,0" VerticalAlignment="Top" Width="100" Click="Button_Click_Odustani" Height="36">
+            <Button.ToolTip>
+                <StackPanel Orientation="Vertical">
+                    <Image Margin="5" Height="200" Width="200" Source="/world.png"></Image>
+                    <TextBlock Margin="5" TextWrapping="Wrap" MaxWidth="200">
+                       Vrati se na pocetnu stranu
+                    </TextBlock>
+                </StackPanel>
+            </Button.ToolTip>
+        </Button>
+
+        <Frame x:Name="DogadjajFrame" Margin="509,67,296,36.4" NavigationUIVisibility="Hidden" Height="515"/>
+
+
+
+    </Grid>
+</Window>
